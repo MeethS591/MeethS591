@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MeethS591
-- 👀 I’m interested in Machine Learning, Deep Learning, Python programming, Data Science.
+- 👀 I’m interested in Data Science, Machine Learning, Deep Learning, Python programming.
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me meethshetty46@gmail.com
